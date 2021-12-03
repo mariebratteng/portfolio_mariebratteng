@@ -1,0 +1,16 @@
+body {
+    background-color: tomato;
+}
+
+.overskrift {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: bold;
+    text-align: center;
+    color: white;
+}
+
+.logg {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+}

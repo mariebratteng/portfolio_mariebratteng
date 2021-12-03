@@ -1,0 +1,97 @@
+body {
+    background-image:url("bilder/oransjeblomster.jpg");
+    background-size: cover;
+}
+
+.navbar {
+    background-color:tomato;
+    width: 35%;
+    height: 100vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15mm;
+    color: white;
+    border-color: rgb(221, 74, 48);
+    text-align: center;
+    border-style: solid;
+}
+
+.navbar a {
+    text-decoration: none;
+    color:white;
+}
+
+.header {
+    font-family: geneva;
+    font-size: 150%;
+}
+
+.appdesign {
+    width: 30%;
+    margin:auto;
+    margin-bottom: 100px;
+    padding: 10mm;
+    border-style: solid;
+    background-color: tomato;
+    color: white;
+    border-color: rgb(221, 74, 48);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20pt;
+    margin-top: 100px;
+}
+
+.appdesign a {
+    text-decoration: none;
+    color: white;
+    font-size: 150%;
+}
+
+.portfolio {
+    width: 30%;
+    margin:auto;
+    margin-bottom: 100px;
+    padding: 10mm;
+    border-style: solid;
+    background-color: tomato;
+    color: white;
+    border-color: rgb(221, 74, 48);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20pt;
+    margin-top: 100px;
+}
+
+.portfolio a {
+    text-decoration: none;
+    color: white;
+    font-size: 150%;
+}
+
+.minimalen {
+    width: 30%;
+    margin:auto;
+    margin-bottom: 100px;
+    padding: 10mm;
+    border-style: solid;
+    background-color: tomato;
+    color: white;
+    border-color: rgb(221, 74, 48);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20pt;
+    margin-top: 100px;
+}
+
+.minimalen a {
+    text-decoration: none;
+    color: white;
+    font-size: 150%;
+}
+
+
+.container {
+    position:absolute;
+    left: 35%;
+    width: 65%;
+    top: 0%;
+}
